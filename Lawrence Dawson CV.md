@@ -35,15 +35,13 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Coding Achievements
 
-- With only one weeks experience of Javascript my team and used Node.js to develop a basic but fully functioning Air Bnb clone.
+- With only one weeks experience of Javascript my team and used **Node.js** to develop a basic but fully functioning [Air Bnb clone](https://github.com/mfperkins/makersBnB).
 
-- For 'dev tools development week' at Makers Academy I pitched an idea to my cohort that was chosen for development. The idea was for a more interactive, and "real world code" like game than children are normally given. We developed a website 'Code Farm' in Javascript, aimed at 10-12 year olds that teaches the basics of coding by interpreting user input and manipulating images on an html5 canvas. For example, when the user wrote 'chicken.pop' an animated chicken would be "popped" from its pen (array).
+- For [dev tools development week](https://github.com/ercekal/code_farm) at Makers Academy I pitched an idea to my cohort that was chosen for development. The idea was for a more interactive, and "real world code" like game than children are normally given. We developed a website 'Code Farm' in **Javascript**, aimed at 10-12 year olds that teaches the basics of coding by interpreting user input and manipulating images on an **html5 canvas**. For example, when the user wrote 'chicken.pop' an animated chicken would be "popped" from its pen (array).
 
-- For 'final project week' at Makers Academy I pitched an IOS app idea to my cohort that I was lucky enough to have chosen for development.
-
-The idea was for a location based messenger, you drop a pin on a map, attach a message to that pin, select a radius, select if its a walk into or out of location message, select a recipient from your phonebook, or Facebook friends, and then when the recipient walks in or out of the message location, they receive the message.
-
-My team and I built the app in two technologies that we had no previous experience in, Swift 3, and Firebase. By the end of the two week development period we had a fully functioning app that achieved all our MVP user stories and looked fantastic!
+- For [final project week](https://github.com/lawrencedawson/turfy) at Makers Academy I pitched an IOS app idea to my cohort that again, I was lucky enough to have chosen for development.
+The idea was for a location based messenger, you drop a pin on a map, attach a message to that pin, choose if its a walk into or out of location message, and then when the recipient of that message walks in or out of the message location, they receive the message as a notification.
+We built the app in two technologies that we had no previous experience in, **Swift 3**, and **Firebase**. By the end of the two week development period we had a fully functioning app that achieved all our MVP user stories and looked fantastic!
 
 
 ## Education
