@@ -35,7 +35,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Coding Achievements
 
-- With only one weeks experience of Javascript my team and used **Node.js** to develop a basic but fully functioning [Air Bnb clone](https://github.com/mfperkins/makersBnB).
+- With only one weeks experience of Javascript my team and used **Node.js** to develop a basic but fully functioning Air Bnb clone.
 
 - For [dev tools development week](https://github.com/ercekal/code_farm) at Makers Academy I pitched an idea to my cohort that was chosen for development. The idea was for a more interactive, and "real world code" like game than children are normally given. We developed a website 'Code Farm' in **Javascript**, aimed at 10-12 year olds that teaches the basics of coding by interpreting user input and manipulating images on an **html5 canvas**. For example, when the user wrote 'chicken.pop' an animated chicken would be "popped" from its pen (array).
 
