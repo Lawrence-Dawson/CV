@@ -20,7 +20,8 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Strong work ethic
 
-- When I asked my colleagues at Makers Academy what my key attributes were, a 'strong work ethic' came up time and time again. I hate to give up on something once I've started. I know that as a junior developer I'll often feel like the dumbest guy in the room, but I'll be one of the first in and last to leave until that's no longer the case.
+- When I asked my colleagues at Makers Academy what my key attributes were, a 'strong work ethic' came up time and time again.
+- I hate to give up on something once I've started. I know that as a junior developer I'll often feel like the dumbest guy in the room, but I'll be one of the first in and last to leave until that's no longer the case.
 
 #### I learn by doing
 
@@ -32,7 +33,12 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Communication
 
-- While in hospitality I perfected my communication skills, became comfortable talking to a total stranger, forged strong relationships with customers, handled complaints, and learned how to work well as part of a team you see every day, often in high stress environments.
+- While in hospitality I perfected my communication skills.
+ - Became comfortable talking to a total stranger.
+ - Forged strong relationships with customers.
+ - Handled complaints.
+ - Learned to work well as part of a team I saw every day, often in high stress environments.
+
 
 - A 'great team player' according to my colleagues at Makers Academy.
 
@@ -48,9 +54,8 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 #### Makers Academy (08/2016 - 11/2016)
 
 - Makers Academy is Europe's No.1 coding bootcamp.
-- Selective bootcamp, only taking 1 in 10 applicants.
-- Taught through lectures and by developing projects in pairs and teams.
-- You teach yourself and the others you're paired with.
+- Selective, only taking 1 in 10 applicants.
+- Taught through lectures, and by developing projects in pairs and teams.
 - OOP, TDD, SOLID, MVC, DDD
 - A strong advocate of good software craftsmanship. TDD is mandatory throughout the course.
 - Ruby, Ruby on Rails, Javascript
@@ -58,7 +63,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Rambert School of Ballet and contemporary Dance (09/06 - 06/09)
 
-- The highest rated Ballet & Contemporary school in the UK.
+- No.1 Ballet & Contemporary school in the UK.
 - Graduated with a 1st Class BA Hons.
 
 #### St Bedes School(09/01 - 06/06)
