@@ -7,7 +7,7 @@ Having trained as a dancer from the age of 4, leaving home at the age of 11 to a
 So why turn to code? It's a far cry from dance and bartending I hear you saying. Well i've always been interested in tech and gadgets, from a young age I was constantly taking things apart, my dads digital clock, remote control cars, the house stereo, all in an effort to understand how they worked. That curiosity later developed into a passion for fixing things, my Xbox, laptop, iphone, tills at work. I wanted to go into a profession that satisfied this itch, I also wanted to break the cycle of working in professions that are oversubscribed, where employees are often undervalued and underpaid.
 A good friend of mine is a developer and suggested I look into coding, one beginners Java course at City University later, and I was hooked, but hopelessly aware of how little I knew. I applied to Makers Academy, Europe's No.1 coding bootcamp, and got in, it's the best decision I've ever made.
 
-#### Coding Achievements
+### Coding Achievements
 
 |Project name |Main technologies used           |Brief description                                                      |Links                                                      |
 |-------------|---------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------|
@@ -16,7 +16,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 
 
-## Skills
+### Skills
 
 #### Strong work ethic
 
@@ -37,7 +37,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
  - Became comfortable talking to a total stranger
  - Forged strong relationships with customers
  - Handled complaints
- - Learned to work well as part of a team I saw every day, often in high stress environments
+ - Learned to work well in high stress environments as part of a team
 
 
 - A 'great team player' according to my colleagues at Makers Academy.
@@ -49,7 +49,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 - Promoted to the role of bar manager at The Abingdon, tasked with training new staff, maintaining standards, stock management, and rota creation.
 
-## Education
+### Education
 
 #### Makers Academy (08/2016 - 11/2016)
 
@@ -74,7 +74,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 - The UK's No.1 Ballet school, and one of the top 5 in the world.
 - To be accepted as a student I had to attend numerous auditions and was 1 of only 11 boys selected from hundreds of applicants from across the country.
 
-## Experience
+### Experience
 
 The Abingdon Restaurant (08/10 - 08/16)
 - Bar Manager
