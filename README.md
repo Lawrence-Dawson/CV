@@ -1,6 +1,7 @@
 
 
 ## Lawrence Dawson
+lawrencedawson@hotmail.co.uk
 
 Having trained as a dancer from the age of 4, leaving home at the age of 11 to attend The Royal Ballet School, then graduating at a professional standard from Rambert School of Ballet and Contemporary Dance, I realised, by the age of 22, that my passion for dance had faded. I went on to travel through Asia solo then work in hospitality, gaining invaluable work experience, fine tuning my communication skills, learning to work well under pressure, and as part of a small team, not forgetting perfecting the art of the perfect 'Espresso Martini'.
 
