@@ -33,11 +33,11 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Communication
 
-- While in hospitality I perfected my communication skills.
- - Became comfortable talking to a total stranger.
- - Forged strong relationships with customers.
- - Handled complaints.
- - Learned to work well as part of a team I saw every day, often in high stress environments.
+- While in hospitality I perfected my communication skills
+ - Became comfortable talking to a total stranger
+ - Forged strong relationships with customers
+ - Handled complaints
+ - Learned to work well as part of a team I saw every day, often in high stress environments
 
 
 - A 'great team player' according to my colleagues at Makers Academy.
