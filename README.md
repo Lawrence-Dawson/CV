@@ -5,7 +5,7 @@ lawrencedawson@hotmail.co.uk
 
 Having trained as a dancer from the age of 4, leaving home at the age of 11 to attend The Royal Ballet School, then graduating at a professional standard from Rambert School of Ballet and Contemporary Dance, I realised, by the age of 22, that my passion for dance had faded. I went on to travel through Asia solo then work in hospitality, gaining invaluable work experience, fine tuning my communication skills, learning to work well under pressure, and as part of a small team, not forgetting perfecting the art of the perfect 'Espresso Martini'.
 
-So why turn to code? It's a far cry from dance and bartending I hear you saying. Well i've always been interested in tech and gadgets, from a young age I was constantly taking things apart, my dads digital clock, remote control cars, the house stereo, all in an effort to understand how they worked. That curiosity later developed into a passion for fixing things, my Xbox, laptop, iphone, tills at work. I wanted to go into a profession that satisfied this itch, I also wanted to break the cycle of working in professions that are oversubscribed, where employees are often undervalued and underpaid.
+So why turn to code? It's a far cry from dance and bartending I hear you saying. Well I've always been interested in tech and gadgets, from a young age I was constantly taking things apart, my dads digital clock, remote control cars, the house stereo, all in an effort to understand how they worked. That curiosity later developed into a passion for fixing things, my Xbox, laptop, iphone, tills at work. I wanted to go into a profession that satisfied this itch, I also wanted to break the cycle of working in professions that are oversubscribed, where employees are often undervalued and underpaid.
 A good friend of mine is a developer and suggested I look into coding, one beginners Java course at City University later, and I was hooked, but hopelessly aware of how little I knew. I applied to Makers Academy, Europe's No.1 coding bootcamp, and got in, it's the best decision I've ever made.
 
 ### Coding Achievements
@@ -54,7 +54,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Makers Academy (08/2016 - 11/2016)
 
-- Makers Academy is Europe's No.1 coding bootcamp.
+- Europe's No.1 coding bootcamp.
 - Selective, only taking 1 in 10 applicants.
 - Taught through lectures, and by developing projects in pairs and teams.
 - OOP, TDD, SOLID, MVC, DDD
@@ -72,7 +72,7 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 - Made head of my house and a school prefect, responsible for house student welfare, discipline, prefect duties, and feeding back house concerns to the headmaster.
 
 #### The Royal Ballet School(09/97 - 06/01)
-- The UK's No.1 Ballet school, and one of the top 5 in the world.
+- UK's No.1 Ballet school, and one of the top 5 in the world.
 - To be accepted as a student I had to attend numerous auditions and was 1 of only 11 boys selected from hundreds of applicants from across the country.
 
 ### Experience
