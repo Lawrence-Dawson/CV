@@ -3,6 +3,8 @@
 ## Lawrence Dawson
 lawrencedawson@hotmail.co.uk
 
+I'm a junior full stack developer with experience in Ruby, JavaScript, and Swift who specialises in back end.
+
 Having trained as a dancer from the age of 4, leaving home at the age of 11 to attend The Royal Ballet School, then graduating at a professional standard from Rambert School of Ballet and Contemporary Dance, I realised, by the age of 22, that my passion for dance had faded. I went on to travel through Asia solo then work in hospitality, gaining invaluable work experience, fine tuning my communication skills, learning to work well under pressure, and as part of a small team, not forgetting perfecting the art of the perfect 'Espresso Martini'.
 
 So why turn to code? It's a far cry from dance and bartending I hear you saying. Well I've always been interested in tech and gadgets, from a young age I was constantly taking things apart, my dads digital clock, remote control cars, the house stereo, all in an effort to understand how they worked. That curiosity later developed into a passion for fixing things, my Xbox, laptop, iphone, tills at work. I wanted to go into a profession that satisfied this itch, I also wanted to break the cycle of working in professions that are oversubscribed, where employees are often undervalued and underpaid.
