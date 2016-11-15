@@ -1,7 +1,7 @@
 
 
 ## Lawrence Dawson
-lawrencedawson@hotmail.co.uk
+
 
 I'm a Makers Academy junior full stack developer with experience in Ruby, JavaScript, and Swift.
 
