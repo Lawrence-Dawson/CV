@@ -14,9 +14,8 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 |Project name |Main technologies used           |Brief description                                                      |Links                                                      |
 |-------------|---------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------|
+|Turfy        |Swift, Xcode, Firebase           | **Final Project**  - iOS location-based messenger                                           |[Turfy on GitHub](https://github.com/lawrencedawson/turfy) |
 |Code-farm    |JavaScript, HTML5                |Interactive website, teaching children the basic concepts of programming and its common syntax  |[CodeFarm on GitHub](https://github.com/ercekal/code_farm), [Live demo](http://code-farm.herokuapp.com/)|
-|Turfy        |Swift, Xcode, Firebase           |iOS location-based messenger                                           |[Turfy on GitHub](https://github.com/lawrencedawson/turfy) |
-
 
 
 ### Skills
