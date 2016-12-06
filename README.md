@@ -17,17 +17,16 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 |Turfy        |Swift, Xcode, Firebase           | **Final Project**  - iOS location-based messenger                                           |[Turfy on GitHub](https://github.com/lawrencedawson/turfy) |
 |Code-farm    |JavaScript, HTML5                |Interactive website, teaching children the basic concepts of programming and its common syntax  |[CodeFarm on GitHub](https://github.com/ercekal/code_farm), [Live demo](http://code-farm.herokuapp.com/)|
 
-
 ### Skills
 
 #### Strong work ethic
 
 - When I asked my colleagues at Makers Academy what my key attributes were, a 'strong work ethic' came up time and time again.
-- I hate to give up on something once I've started. I know that as a junior developer I'll often feel like the dumbest guy in the room, but I'll be one of the first in and last to leave until that's no longer the case.
+- I hate to give up on something. As a junior developer I'll often feel like the dumbest guy in the room, but I'll be one of the first in and last to leave until that's no longer the case.
 
 #### I learn by doing
 
-- Dancers learn by doing, when tasked with something difficult they slow it down and repeat it over and over until it's mastered and its second nature. I've found learning code is much the same, I relish the chance to tackle a bug, or a problem, because it gives me the chance to tackle something in a different way over and over again, each time increasing my knowledge and understanding until I crack it.
+- Dancers learn by doing, by repetition,  and analysis. I've found learning code is much the same. I relish the chance to tackle a bug, or problem, because it gives me the chance to tackle something in a different way over and over again, each time increasing my knowledge and understanding until I crack it.
 
 #### Diverse background
 
@@ -55,25 +54,25 @@ A good friend of mine is a developer and suggested I look into coding, one begin
 
 #### Makers Academy (08/2016 - 11/2016)
 
-- Europe's No.1 coding bootcamp.
+- **Europe's No.1 coding bootcamp**.
 - Selective, only taking 1 in 10 applicants.
 - Taught through lectures, and by developing projects in pairs and teams.
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - A strong advocate of good software craftsmanship. TDD is mandatory throughout the course.
 - Ruby, Ruby on Rails, Javascript
 - Rspec, Jasmine, Mocha
 
 #### Rambert School of Ballet and contemporary Dance (09/06 - 06/09)
 
-- No.1 Ballet & Contemporary school in the UK.
-- Graduated with a 1st Class BA Hons.
+- **No.1 Ballet & Contemporary school in the UK**.
+- Graduated with a **1st Class BA Hons**.
 
 #### St Bedes School(09/01 - 06/06)
 - A Levels: Dance AS - B, ICT - B, History - C, Politics- C.
-- Made head of my house and a school prefect, responsible for house student welfare, discipline, prefect duties, and feeding back house concerns to the headmaster.
+- Made **head of house and a school prefect**, responsible for house student welfare, discipline, prefect duties, and feeding back house concerns to the headmaster.
 
 #### The Royal Ballet School(09/97 - 06/01)
-- UK's No.1 Ballet school, and one of the top 5 in the world.
+- **UK's No.1 Ballet school**, and one of the top 5 in the world.
 - To be accepted as a student I had to attend numerous auditions and was 1 of only 11 boys selected from hundreds of applicants from across the country.
 
 ### Experience
